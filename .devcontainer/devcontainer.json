@@ -15,7 +15,7 @@
           "ms-toolsai.jupyter"
         ],
         "settings": {
-            "workbench.colorTheme": "Dracula",   // Set Dracula as the default theme
+            "workbench.colorTheme": "Dracula Theme Soft",   // Set Dracula as the default theme
             "editor.formatOnSave": true,         // Optional: Enable auto-formatting
             "python.formatting.provider": "black"
         }
