@@ -23,10 +23,10 @@ Codespaces is an online development environment. This means you can write, run, 
 ### Running Your First Program
 
 1. Navigate to the `/assignments/hello_world/` folder.
-2. Open the `hello_world.py` file.
-3. Inside `hello_world.py`, write the following code:
+2. Open the `main.py` file.
+3. Inside `main.py`, write the following code:
     ```python
-    print("Hello, World!")
+    print("Hello World!")
     ```
 4. Press **Run** to see your code in action.
 
